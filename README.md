@@ -9,7 +9,7 @@
 [![Github](https://img.shields.io/github/followers/Abhishekcrz?label=Follow&style=social)](https://github.com/Abhishekcrz)
 
 - 💻 Working as a Technology Analyst at Infosys. Check it out for  Python and Machine Learning contents.
-- 🤔 I’m currently reading [Architecture Patterns with Python](https://learning.oreilly.com/library/view/architecture-patterns-with/9781492052197/preface01.html). Check it out if interested.
+- 🤔 I’m currently reading [Architecture Patterns with Python](https://github.com/millengustavo/python-books/blob/master/architecture-patterns-python/notes.md)). Check it out if interested.
 - 📫 How to reach me: abhii.chandravanshi@gmail.com
 
 
